@@ -11,7 +11,7 @@ const Footer = () => {
           <p>
             Hi, I’m <strong>Chinthala Revanth Reddy</strong> — a passionate
             full-stack developer who built this <strong>Food Delivery MERN App</strong> 
-            to explore how modern web technologies connect users, restaurants, and 
+             to explore how modern web technologies connect users, restaurants, and 
             admins seamlessly. This project is developed using React.js, Node.js, 
             Express.js, MongoDB, and integrated with Stripe for secure online payments.
           </p>
