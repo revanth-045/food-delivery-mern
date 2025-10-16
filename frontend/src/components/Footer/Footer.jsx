@@ -57,7 +57,7 @@ const Footer = () => {
       </div>
       <hr />
       <p className="footer-copyright">
-        © 2024 Tomato.com — Designed & Developed by Chinthala Revanth Reddy.
+        © 2025 Tomato.com — Designed & Developed by Chinthala Revanth Reddy.
       </p>
     </div>
   );
